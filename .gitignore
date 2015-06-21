@@ -8,6 +8,7 @@
 *.dex
 *.iml
 .idea/
+
 # Java class files
 *.class
 
@@ -28,3 +29,4 @@ proguard/
 
 # Log Files
 *.log
+*yinhua
